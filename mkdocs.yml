@@ -1,16 +1,6 @@
 site_name: My MkDocs Material Documentation
 site_url: https://sitename.example
 
-nav:
-  - Home: index.md
-  - 25-26秋冬: about.md
-  # - Guide:
-  #     - Introduction: guide/introduction.md
-  #     - Installation: guide/installation.md
-  #     - Usage: guide/usage.md
-  # - API Reference: api_reference.md
-  # - About: about.md
-
 theme: 
   name: material
   font:
