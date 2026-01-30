@@ -1,6 +1,10 @@
 site_name: My MkDocs Material Documentation
 site_url: https://sitename.example
 
+nav:
+  - 25-26fall: 
+    - ElectricCircuits: docs/25-26fall/ElectricCircuits.md
+    - Probability: docs/25-26fall/Probability.md
 theme: 
   name: material
   font:
