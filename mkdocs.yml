@@ -3,9 +3,9 @@ site_url: https://shihangwu.github.io/mkdocs/
 
 nav:
   - 25-26秋冬:
-    - 电子电路基础: 25-26fall/ElectricCircuits.md
-    - 概率论与数理统计: 25-26fall/Probability.md
-    - 微观经济学: 25-26fall/Microeconomics.md
+    - 电子电路基础: 25-26fall/ElectricCircuits
+    - 概率论与数理统计: 25-26fall/Probability
+    - 微观经济学: 25-26fall/Microeconomics
 
 theme: 
   name: material
