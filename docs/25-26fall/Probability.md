@@ -6,10 +6,6 @@
  * @FilePath: \my-project\docs\大二上\概率论与数理统计.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
-历年卷勘误
-
-https://note.slowist.top/Math/Probability/Error/
-
 答案
 
 课本附表及相关结论
@@ -20,4 +16,3 @@ https://note.slowist.top/Math/Probability/Error/
 
 一些量
 
-往年小测
