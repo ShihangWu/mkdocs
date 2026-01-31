@@ -2,7 +2,7 @@
  * @Author: ShihangWu 2478677199@qq.com
  * @Date: 2026-01-30 22:40:26
  * @LastEditors: ShihangWu 2478677199@qq.com
- * @LastEditTime: 2026-01-31 11:17:53
+ * @LastEditTime: 2026-01-31 15:13:31
  * @FilePath: \my-project\docs\大二上\电子电路基础.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -10,6 +10,7 @@
 - 二极管 也有交流小信号模型，对应$\frac{1}{g_m}$ 电阻
 > `CH06-KP2-06` 交流时 $\frac{1}{g_m}$ 电阻
 - mos大题 器件工作状态 注意kn单位，最好是$mA/V^2$ ; base电流始终是0，分析的时候都是直接接地
+
 > `CH08-KP3-01` `CH08-KP3-03` 
 
 > `CH08-KP3-05`别漏了$R_L$ ；$\frac{1}{g_m}$直接接地，因为gate端 没电流 不连通
@@ -52,7 +53,7 @@ $g_m = \frac{I_D}{V_{OV}/2}$
 
 $r_o =\frac{1}{\lambda I_D}, 也即 r_o =\frac{V_A}{I_D}，其中 \lambda = \frac{1}{V_A},$ $r_o$为沟道调制效应（厄雷效应）对应的电阻
 
-??? info "一些自己经过做题总结的想法"
+??? note "一些自己经过做题总结的想法"
 
     把GS之间的那个箭头看成一个\frac{1}{g_m}的电阻
     MOSFET多级级联的时候，要找到V_{in}，一般是G（栅极Gate），才能使用公式和小信号模型

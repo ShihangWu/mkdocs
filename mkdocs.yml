@@ -60,6 +60,8 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
+  - toc:
+      permalink: true
 
 extra:
   social:
