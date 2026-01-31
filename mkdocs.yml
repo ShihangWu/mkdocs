@@ -15,6 +15,7 @@ theme:
   favicon: assets/favicon.ico
   features:
     - navigation.footer
+    - toc.follow
   palette:
     # Dark Mode
     - scheme: slate
@@ -61,7 +62,6 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - toc:
-      title: On this page
       permalink: true
 
 extra:
