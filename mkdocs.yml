@@ -2,10 +2,13 @@ site_name: 个人知识库
 site_url: https://shihangwu.github.io/mkdocs/
 
 nav:
-  - 25-26秋冬:
-    - 电子电路基础: 25-26fall/electriccircuits.md
-    - 概率论与数理统计: 25-26fall/probability.md
-    - 微观经济学: 25-26fall/microeconomics.md
+  - 课程:
+    - 25-26秋冬:
+      - 电子电路基础: 25-26fall/electriccircuits.md
+      - 概率论与数理统计: 25-26fall/probability.md
+      - 微观经济学: 25-26fall/microeconomics.md
+  - 存档:
+    - KeyVerse: projects/keyverse.md
 
 theme: 
   name: material
