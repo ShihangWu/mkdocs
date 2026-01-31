@@ -2,16 +2,9 @@ site_name: My MkDocs Material Documentation
 site_url: https://shihangwu.github.io/mkdocs/
 
 nav:
-  - 首页: examples/index.md
-  - 关于: examples/about.md
-  - 25-26fall:
-    - 电路分析: 25-26fall/ElectricCircuits.md
-    - 概率论: 25-26fall/Probability.md
-  - 示例:
-    - 代码示例: examples/code-examples.md
-    - 内容选项卡: examples/content-tabs.md
-    - 图表示例: examples/diagram-examples.md
-    - 提示和警告: examples/admonitions.md
+  - 25-26秋冬:
+    - 电子电路基础: 25-26fall/ElectricCircuits.md
+    - 概率论与数理统计: 25-26fall/Probability.md
 
 theme: 
   name: material
