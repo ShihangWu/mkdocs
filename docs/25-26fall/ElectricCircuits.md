@@ -2,7 +2,7 @@
  * @Author: ShihangWu 2478677199@qq.com
  * @Date: 2026-01-30 22:40:26
  * @LastEditors: ShihangWu 2478677199@qq.com
- * @LastEditTime: 2026-01-31 15:13:31
+ * @LastEditTime: 2026-01-31 15:16:42
  * @FilePath: \my-project\docs\大二上\电子电路基础.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -55,8 +55,8 @@ $r_o =\frac{1}{\lambda I_D}, 也即 r_o =\frac{V_A}{I_D}，其中 \lambda = \fra
 
 ??? note "一些自己经过做题总结的想法"
 
-    把GS之间的那个箭头看成一个\frac{1}{g_m}的电阻
-    MOSFET多级级联的时候，要找到V_{in}，一般是G（栅极Gate），才能使用公式和小信号模型
+    把GS之间的那个箭头看成一个$\frac{1}${g_m}的电阻
+    MOSFET多级级联的时候，要找到$V_{in}$，一般是G（栅极Gate），才能使用公式和小信号模型
 
 # 运放
 运用叠加定理时，其他信号源要置零（接地）
