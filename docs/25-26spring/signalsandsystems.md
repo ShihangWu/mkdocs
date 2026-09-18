@@ -14,9 +14,13 @@
 
 ## 本人大作业
 <iframe
-  src="assets/signalsandsystems.pdf"
+  src="../../assets/signalsandsystems.pdf"
   width="100%"
   height="800"
   style="border: none;"
-  title="信号大作业">
+  title="信号与系统大作业 PDF">
 </iframe>
+
+<a href="../../assets/signalsandsystems.pdf" target="_blank" rel="noopener">
+  如果 PDF 未能显示，请点击此处打开或下载。
+</a>
