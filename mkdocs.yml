@@ -7,6 +7,8 @@ nav:
       - 电子电路基础: 25-26fall/electriccircuits.md
       - 概率论与数理统计: 25-26fall/probability.md
       - 微观经济学: 25-26fall/microeconomics.md
+    - 25-26春夏:
+      - 数字系统设计: 25-26spring/digitalsystemdesign.md
   - 存档:
     - KeyVerse: projects/keyverse.md
 
