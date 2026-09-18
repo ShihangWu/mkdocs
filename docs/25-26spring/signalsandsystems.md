@@ -6,11 +6,17 @@
 
 小测有两次，历年题重合度较高。第一次是夏二周左右，考前三章内容，主要考连续时间傅里叶变换。第二次在最后一周，涉及全部内容。
 
-课程设计大作业 老师会给备选选题，选更难的题分数上限会高一些。
+课程设计大作业 老师会给备选选题和历年优秀范例供参考，选更难的题分数上限会高一些。
 ## 学习路径
 这是一门数学课，整体难度不大，需要记住的公式和结论比较多，需要熟练掌握计算。推荐[胡浩基老师的网课](https://www.bilibili.com/video/BV1g94y1Q76G/?share_source=copy_web&vd_source=175c3506a13fcf2ad63dc8048788a09e)
 
 考试复习顺序建议先过一遍第1，2章基础概念，再复习第6，7章拉普拉斯变换和Z变换，再看第3，4章连续和离散傅里叶变换，最后看第5章采样定理。采样定理这一章比较难，建议在看过课本推导过程后，自己手推一遍，各个步骤涉及到的时域频域表达式和图像都最好记住。
 
 ## 本人大作业
-<iframe src="../assets/signalsandsystems.pdf" width="100%" height="800px" style="border: 1px solid #ccc; overflow: auto;"></iframe>
+<iframe
+  src="assets/signalsandsystems.pdf"
+  width="100%"
+  height="800"
+  style="border: none;"
+  title="信号大作业">
+</iframe>
