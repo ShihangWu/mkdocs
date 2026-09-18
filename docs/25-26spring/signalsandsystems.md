@@ -13,4 +13,4 @@
 考试复习顺序建议先过一遍第1，2章基础概念，再复习第6，7章拉普拉斯变换和Z变换，再看第3，4章连续和离散傅里叶变换，最后看第5章采样定理。采样定理这一章比较难，建议在看过课本推导过程后，自己手推一遍，各个步骤涉及到的时域频域表达式和图像都最好记住。
 
 ## 本人大作业
-[FIR 型数字希尔伯特变换器设计与窄带信号瞬时参数提取](../assets/signalsandsystems.pdf)
+<iframe src="../assets/signalsandsystems.pdf" width="100%" height="800px" style="border: 1px solid #ccc; overflow: auto;"></iframe>
