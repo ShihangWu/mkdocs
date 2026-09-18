@@ -8,7 +8,9 @@ nav:
       - 概率论与数理统计: 25-26fall/probability.md
       - 微观经济学: 25-26fall/microeconomics.md
     - 25-26春夏:
+      - 信号与系统: 25-26spring/signalsandsystems.md
       - 数字系统设计: 25-26spring/digitalsystemdesign.md
+      - 人工智能: 25-26spring/ai.md
   - 存档:
     - KeyVerse: projects/keyverse.md
 
